@@ -1,0 +1,36 @@
+h1, h3{
+    color: white;
+}
+div{
+    margin:0 auto;
+    text-align: center;
+}
+#div-middle{
+    text-align: left;
+    width: 610px;
+    height: 23px;
+}
+body{
+    margin:0;
+    background-color: black;
+}
+#new-color{
+    background-color: white;
+    border: 0;
+    height: 22.5px;
+    width: 100px;
+    color: rgb(50,50,50);
+    font-weight: bold;
+    border-radius: 5%;
+}
+#new-color:hover{
+    color: rgb(150,150,150);
+    font-weight: bold;
+}
+button:not(#new-color){
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 1px gray;
+    margin: 10px;
+}

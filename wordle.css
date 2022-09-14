@@ -1,0 +1,32 @@
+#start{
+    font-size: 20px;
+}
+div{
+    width:600px;
+    margin :0 auto;
+}
+body{
+    background-color: gray;
+}
+h2, h4{
+    color:azure;
+}rgb
+button{
+    background-color: azure;
+    border-color : gray;
+    color: rgb(50,50,50);
+}
+input{
+    width:50px;
+    height:50px;
+    font-size:40px;
+    text-align:center;
+    background-color: gray;
+}
+input[id='rnd']{
+    width:20px;
+    height:20px;
+    font-size:12px;
+    text-align:center;
+    background-color: gray;
+}
